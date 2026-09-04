@@ -1,0 +1,7 @@
+export enum ChamadoCategoria {
+  ACESSO = 'ACESSO',
+  FINANCEIRO = 'FINANCEIRO',
+  MATRICULA = 'MATRICULA',
+  DOCUMENTOS = 'DOCUMENTOS',
+  OUTROS = 'OUTROS',
+}
